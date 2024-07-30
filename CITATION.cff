@@ -1,31 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Milei"
-  given-names: "Pavel"
-- family-names: "Barajas"
-  given-names: "Angel"
-- family-names: "Votintseva"
-  given-names: "Nadezhda"
 title: "Automated Identification and Taxonomy of Business Models"
 version: 1.0.0
 date-released: 2024-07-30
-url: "https://github.com/idlab-hse/BusinessModels/"
-preferred-citation:
-  type: article
-  authors:
-  - family-names: "Milei"
-    given-names: "Pavel"
-  - family-names: "Barajas"
-    given-names: "Angel"
-  - family-names: "Votintseva"
-    given-names: "Nadezhda"
-  doi: "10.0000/00000"
-  journal: "Journal Title"
-  month: 9
-  start: 1 # First page number
-  end: 10 # Last page number
-  title: "Automated Identification and Taxonomy of Business Models"
-  issue: 1
-  volume: 1
-  year: 2024
+url: "https://github.com/IDLaboratory/BusinessModels/"
