@@ -1,4 +1,4 @@
-<!-- Automated Identification and Taxonomy of Business Models -->
+## Automated Identification and Taxonomy of Business Models
 
 Use this script to run dictionary-based content analysis on a company's annual report to obtain its business model.
 
