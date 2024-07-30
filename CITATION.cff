@@ -10,6 +10,7 @@ authors:
 title: "Automated Identification and Taxonomy of Business Models"
 version: 1.0.0
 date-released: 2024-07-30
+url: "https://github.com/idlab-hse/BusinessModels/"
 preferred-citation:
   type: article
   authors:
