@@ -6,7 +6,7 @@ Use this script to run dictionary-based content analysis on companies' annual re
 
 1. Importing the keywords vocabulary and the list of companies
 2. Downloading companies' annual reports and retrieving the Part I with the business description
-3. Performing content analysis
+3. Performing content analysis to get business models
 4. Normalising the obtained frequencies
-5. Performing cluster analysis
+5. Performing cluster analysis to produce the taxonomy
 
