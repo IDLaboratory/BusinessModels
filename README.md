@@ -10,3 +10,6 @@ Use this script to run dictionary-based content analysis on companies' annual re
 4. Normalising the obtained frequencies
 5. Performing cluster analysis to produce the taxonomy
 
+### Shiny app
+
+An interactive app with business models of 363 young companies is available here: https://idlab.shinyapps.io/BusinessModels/
