@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Milei"
+  given-names: "Pavel"
+- family-names: "Votintseva"
+  given-names: "Nadezhda"
+- family-names: "Barajas"
+  given-names: "Angel"
+title: "Automated Identification and Taxonomy of Business Models"
+version: 1.0.0
+date-released: 2024-07-30
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Milei"
+    given-names: "Pavel"
+  - family-names: "Votintseva"
+    given-names: "Nadezhda"
+  - family-names: "Barajas"
+    given-names: "Angel"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 9
+  start: 1 # First page number
+  end: 10 # Last page number
+  title: "Automated Identification and Taxonomy of Business Models"
+  issue: 1
+  volume: 1
+  year: 2024
