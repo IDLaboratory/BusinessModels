@@ -1,4 +1,4 @@
-## Automated Identification and Taxonomy of Business Models
+## Automated Identification of Business Models
 
 Use this script to run dictionary-based content analysis on companies' annual reports to obtain their business models.
 
@@ -8,7 +8,7 @@ Use this script to run dictionary-based content analysis on companies' annual re
 2. Downloading companies' annual reports and retrieving the Part I with the business description
 3. Performing content analysis to get business models
 4. Normalising the obtained frequencies
-5. Performing cluster analysis to produce the taxonomy
+5. Performing cluster analysis to produce the classification
 
 ### Shiny app
 
